@@ -57,7 +57,7 @@ Si tu fais exécutes la commande "tree" dans ton dépôt, tu devrais avoir l'arb
 │   └── tests
 │       ├── MainTest.java
 │       └── PrimitivesTest.java
-│       └── ...
+│       └── ...src
 └── tester.sh
 
 ```

@@ -1,4 +1,4 @@
-//package exercices;
+package exercices;
 
 public class Primitives {
 
@@ -6,7 +6,7 @@ public class Primitives {
 	public static int integer() {
         	return 42;
    	}
-	
+
     // TODO 2 : Create a method 'str', result expected : String "Hello"
 
 	public static String str(){
@@ -26,6 +26,6 @@ public class Primitives {
 
     // TODO 5 : Create a method 'nothing', no result expected
 	public static void nothing(){
-		
+
 	}
 }
