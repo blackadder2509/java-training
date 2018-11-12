@@ -1,4 +1,4 @@
-//package exercices;
+package exercices;
 
 public class Person {
 
@@ -33,7 +33,7 @@ public class Person {
 		this.age=age;
 	}
     // TODO 7. Add getter method for wilder attribute
-	public boolean IsWilder () {
+	public boolean isWilder () {
 		return this.wilder;
 	}
     // TODO 8. Add setter method for wilder attribute
