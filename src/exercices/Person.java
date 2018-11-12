@@ -47,6 +47,6 @@ public class Person {
 	}
     // Do not remove this empty constructor !
     public Person() {
-	new Person ("Charlie",18);
+	
     }
 }
